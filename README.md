@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zhihan Xu
 - 👀 I’m interested in machine learning, deep learning, signal processing, network, wireless communication, and cybersecurity!
 - 🌱 I’m currently learning at KTH as a master's student.
-- 💞️ I’m looking to collaborate on Machine learning with the Aircomp area.
+- 💞️ I’m looking to collaborate on Machine learning and the Aircomp area.
 - 📫 How to reach me by sending emails to zhihanxu1998@outlook.com
 
 <!---
